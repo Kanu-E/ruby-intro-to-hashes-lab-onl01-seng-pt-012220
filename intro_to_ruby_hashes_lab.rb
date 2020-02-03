@@ -20,8 +20,7 @@ end
 
 def monopoly_with_third_tier
 	monopoly = {
-	           :railroads => {
-	           :names => {""}}},
+	           :railroads => {:names => {""}}},
 	          
 	           
 
