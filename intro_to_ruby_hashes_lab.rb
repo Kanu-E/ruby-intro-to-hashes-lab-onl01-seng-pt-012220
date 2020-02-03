@@ -4,7 +4,7 @@ hash = {
 end
 
 def actor
- :name => {}
+ actor => {}
 end
 
 def monopoly
