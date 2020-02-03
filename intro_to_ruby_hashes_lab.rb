@@ -1,5 +1,7 @@
 def new_hash
-
+epic_tragedy = {
+     :montague => { },
+    :capulet => { }
 end
 
 def actor
